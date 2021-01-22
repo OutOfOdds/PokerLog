@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  PokerLog
+
+  Created by Mike Mailian on 19.01.2021.
+  
+*/
+
+"sort_title" = "Sort by...";
+"1_m" = "FILTER: 1M";
+"3_m" = "FILTER: 3M";
+"6_m" = "FILTER: 6M";
+"1_y" = "FILTER: 1Y";
+"all" = "FILTER: ALL";
+"all1" = "ALL";
+"1_y1" = "1Y";
+"cancel" = "Cancel";
+"comment" = "e.g. Running hot today 🔥";
+

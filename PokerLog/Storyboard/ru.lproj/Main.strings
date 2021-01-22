@@ -1,0 +1,74 @@
+/* Class = "UISegmentedControl"; 1M5-oy-VUl.segmentTitles[0] = "1M"; ObjectID = "1M5-oy-VUl"; */
+"1M5-oy-VUl.segmentTitles[0]" = "1M";
+
+/* Class = "UISegmentedControl"; 1M5-oy-VUl.segmentTitles[1] = "3M"; ObjectID = "1M5-oy-VUl"; */
+"1M5-oy-VUl.segmentTitles[1]" = "3M";
+
+/* Class = "UISegmentedControl"; 1M5-oy-VUl.segmentTitles[2] = "6M"; ObjectID = "1M5-oy-VUl"; */
+"1M5-oy-VUl.segmentTitles[2]" = "6M";
+
+/* Class = "UISegmentedControl"; 1M5-oy-VUl.segmentTitles[3] = "1Y"; ObjectID = "1M5-oy-VUl"; */
+"1M5-oy-VUl.segmentTitles[3]" = "1Г";
+
+/* Class = "UISegmentedControl"; 1M5-oy-VUl.segmentTitles[4] = "ALL"; ObjectID = "1M5-oy-VUl"; */
+"1M5-oy-VUl.segmentTitles[4]" = "ВСЕ";
+
+/* Class = "UISegmentedControl"; 4SJ-7F-AtN.segmentTitles[0] = "Cash game"; ObjectID = "4SJ-7F-AtN"; */
+"4SJ-7F-AtN.segmentTitles[0]" = "Кэш игра";
+
+/* Class = "UISegmentedControl"; 4SJ-7F-AtN.segmentTitles[1] = "MTT"; ObjectID = "4SJ-7F-AtN"; */
+"4SJ-7F-AtN.segmentTitles[1]" = "Турнир";
+
+/* Class = "UILabel"; text = "Average per session:"; ObjectID = "4hQ-We-sMr"; */
+"4hQ-We-sMr.text" = "В среднем за сессию:";
+
+/* Class = "UILabel"; text = "Add session"; ObjectID = "CTN-bW-VcX"; */
+"CTN-bW-VcX.text" = "Добавить сессию";
+
+/* Class = "UITabBarItem"; title = "My Sessions"; ObjectID = "FaB-F7-m11"; */
+"FaB-F7-m11.title" = "Мои сессии";
+
+/* Class = "UILabel"; text = "hours"; ObjectID = "HAv-Cv-NBA"; */
+"HAv-Cv-NBA.text" = "время(ч)";
+
+/* Class = "UILabel"; text = "Poker type:"; ObjectID = "Lkx-Mo-7BH"; */
+"Lkx-Mo-7BH.text" = "Вид покера:";
+
+/* Class = "UILabel"; text = "money in"; ObjectID = "RcW-eH-uDQ"; */
+"RcW-eH-uDQ.text" = "Внесено";
+
+/* Class = "UITextView"; text = "e.g. \"Running hot 🔥\""; ObjectID = "WfK-Bg-AWn"; */
+"WfK-Bg-AWn.text" = "прим. \"Сегодня тащу 🔥\"";
+
+/* Class = "UILabel"; text = "Session results:"; ObjectID = "Z8T-uk-4er"; */
+"Z8T-uk-4er.text" = "Резельтат сессии:";
+
+/* Class = "UILabel"; text = "Game format:"; ObjectID = "Ze2-TY-v5p"; */
+"Ze2-TY-v5p.text" = "Формат покера:";
+
+/* Class = "UIBarButtonItem"; title = "FILTER: ALL"; ObjectID = "bVt-U6-acG"; */
+"bVt-U6-acG.title" = "ФИЛЬТР: ВСЕ";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "e7f-JF-JcV"; */
+"e7f-JF-JcV.text" = "Дата:";
+
+/* Class = "UILabel"; text = "My overall result:"; ObjectID = "eq1-UU-tfI"; */
+"eq1-UU-tfI.text" = "Общий результат:";
+
+/* Class = "UILabel"; text = "My Winrate (💰/ hour):"; ObjectID = "lPw-s7-zZc"; */
+"lPw-s7-zZc.text" = "Мой винрейт (💰/ час):";
+
+/* Class = "UILabel"; text = "money out"; ObjectID = "m93-KI-ZHm"; */
+"m93-KI-ZHm.text" = "выведено";
+
+/* Class = "UIButton"; normalTitle = "💾 SAVE"; ObjectID = "nv7-X7-Fds"; */
+"nv7-X7-Fds.normalTitle" = "💾 СОХРАНИТЬ";
+
+/* Class = "UILabel"; text = "Add session note:"; ObjectID = "y5n-Xq-lXt"; */
+"y5n-Xq-lXt.text" = "Добавить заметку к сессии:";
+
+/* Class = "UITabBarItem"; title = "My Results"; ObjectID = "zg5-eI-mZf"; */
+"zg5-eI-mZf.title" = "Мои результаты";
+
+"uPn-DN-irP.text" = "Нет данных";
+"R0H-rS-sLN.text" = "Нажмите на плюс в правом верхнем углу, чтобы добавить сессию";
