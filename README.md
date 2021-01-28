@@ -1,4 +1,4 @@
-# PokerLog :scroll:
+# PokerLog :chart_with_upwards_trend:
 ## A simple app to track your poker sessions
 
 ### Concepts/Tools used:
